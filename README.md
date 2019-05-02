@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##TodoApp feito em ReactJS. As funções são de listar itens, marcar como feitos e remover.
+## TodoApp feito em ReactJS. As funções são de listar itens, marcar como feitos e remover.
 
 ## Available Scripts
 
